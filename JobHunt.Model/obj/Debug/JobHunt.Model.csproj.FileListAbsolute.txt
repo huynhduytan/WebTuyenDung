@@ -75,3 +75,15 @@ D:\New folder\JobHunt\JobHunt.Model\bin\Debug\EntityFramework.SqlServer.xml
 D:\New folder\JobHunt\JobHunt.Model\obj\Debug\JobHunt.Model.csprojResolveAssemblyReference.cache
 D:\New folder\JobHunt\JobHunt.Model\obj\Debug\JobHunt.Model.dll
 D:\New folder\JobHunt\JobHunt.Model\obj\Debug\JobHunt.Model.pdb
+D:\Website-tuyendung-timviec\JobHunt\JobHunt.Model\bin\Debug\JobHunt.Model.dll.config
+D:\Website-tuyendung-timviec\JobHunt\JobHunt.Model\bin\Debug\JobHunt.Model.dll
+D:\Website-tuyendung-timviec\JobHunt\JobHunt.Model\bin\Debug\JobHunt.Model.pdb
+D:\Website-tuyendung-timviec\JobHunt\JobHunt.Model\bin\Debug\EntityFramework.dll
+D:\Website-tuyendung-timviec\JobHunt\JobHunt.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Website-tuyendung-timviec\JobHunt\JobHunt.Model\bin\Debug\Newtonsoft.Json.dll
+D:\Website-tuyendung-timviec\JobHunt\JobHunt.Model\bin\Debug\EntityFramework.xml
+D:\Website-tuyendung-timviec\JobHunt\JobHunt.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Website-tuyendung-timviec\JobHunt\JobHunt.Model\bin\Debug\Newtonsoft.Json.xml
+D:\Website-tuyendung-timviec\JobHunt\JobHunt.Model\obj\Debug\JobHunt.Model.csprojResolveAssemblyReference.cache
+D:\Website-tuyendung-timviec\JobHunt\JobHunt.Model\obj\Debug\JobHunt.Model.dll
+D:\Website-tuyendung-timviec\JobHunt\JobHunt.Model\obj\Debug\JobHunt.Model.pdb
